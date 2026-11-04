@@ -4,6 +4,12 @@ PWA em português para apoio educacional à enfermagem. React + TypeScript + Vit
 
 **V1 educacional: validação clínica independente e homologação institucional pendentes. Não usar como ferramenta assistencial validada.**
 
+## Acessar o projeto completo e fazer pequenas alterações
+
+Os arquivos completos estão na [branch `feat/clinicare-pwa-v1`](https://github.com/wilsonborges/ED---CLINICARE-/tree/feat/clinicare-pwa-v1), na [PR #1](https://github.com/wilsonborges/ED---CLINICARE-/pull/1). Enquanto a PR não for integrada, selecione essa branch no GitHub.
+
+Comece pelo **[guia de pequenas modificações](docs/SMALL_CHANGES.md)**: ele mostra onde alterar textos, cores, ícones e ferramentas e como baixar o projeto completo ou o build pronto para teste.
+
 ## Primeira versão
 
 - Interface responsiva com temas claro, escuro e automático; navegação por teclado.
